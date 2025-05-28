@@ -1,0 +1,5 @@
+The names of local variables, class fields, method parameters, and method names (should contain verbs) use CamelCase.
+The names of classes, interfaces, annotations, and lists use TitleCase The names of classes and lists should be nouns, and the names of interfaces, as a rule, are adjectives.
+The names of variables with invariable values are specified in uppercase, and the words are separated with the underscore symbol.
+The names of packages have a prefix that is always specified in lowercase and represents the domain name of the higher level: com, edu, gov, mil, net, org, or a two-letter country code.
+The names of parameters of the generic types should be a single capital letter.

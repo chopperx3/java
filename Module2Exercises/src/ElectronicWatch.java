@@ -1,8 +1,8 @@
-//Please, proceed to ElectronicWatch class. The program must print an electronic watch screen output for a given value of seconds since midnight.
+//Proceed to ElectronicWatch class. The program must print an electronic watch screen output for a given value of seconds since midnight.
 //
 //Input value is given via System.in. Output value must be printed to System.out
 //
-//It is guaranteed that input number is non-negative.
+//It is guaranteed that the input number is non-negative.
 //
 //Output format is h:mm:ss (possible values: [0:00:00; 23:59:59]).
 //
@@ -15,7 +15,8 @@
 //
 //Input: 86460
 //Output: 0:01:00
-package com.epam.rd.autotasks.meetautocode;
+//
+//package com.epam.rd.autotasks.meetautocode;
 
 import java.util.Scanner;
 
